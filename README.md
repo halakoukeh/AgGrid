@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Essential Configuration 
+columnDefs : Columns
+rowData    : Rows
+EnableSorting: true/false;
+
+
+## Target : 
+
+### 1- Use Ag Grid
+### 2- Pass Data as Service. 
+### 3- Pass Configuration as Service. 
+
+
